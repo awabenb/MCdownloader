@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 构建产物（exe 用 GitHub Releases 发布，不入源码仓库）
+build/
+dist/
+
+# 下载器运行缓存 / 日志
+.mcdl_installers/
+*.log
+mc_downloader_error.log
+
+# 本机工具（PortableGit 等，不入库）
+.tools/
+
+# 系统 / 编辑器
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
