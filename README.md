@@ -18,8 +18,6 @@
 | Python 3.9+ | ✅ 必需 | 自带 tkinter 即可，无任何第三方依赖 |
 | Java 17+ | ⚠️ 仅装加载器时 | 运行 Forge / Fabric / NeoForge 安装器需要。装纯净版可不要 |
 
-本机已检测到 Java 17，可直接使用。
-
 ---
 
 ## 运行
@@ -119,6 +117,6 @@ D:\MCdownloader\
 python tests\test_offline.py
 ```
 
-预期输出 `31 通过, 0 失败`。
+
 
 > 注：工具依赖外网（镜像/官方），本说明给出的实时下载请在能联网的机器上运行。
